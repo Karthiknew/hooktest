@@ -1,1 +1,1 @@
-# hooktest with precommit hook
+# hooktest with precommit hook.
